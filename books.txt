@@ -1,0 +1,5 @@
+1,Fiction,The Great Gatsby,218
+2,Science,Brief History of Time,256
+3, Fantasy,Harry Potter and the Sorcerer's Stone,309
+4,Non-Fiction,Educated,334
+5, Fiction, To Kill a Mockingbird,281
